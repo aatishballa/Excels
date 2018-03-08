@@ -8,3 +8,14 @@ C:\Users\cx3698ff\Desktop\The Graphinator\The Graphinator\obj\Debug\The Graphina
 C:\Users\cx3698ff\Desktop\The Graphinator\The Graphinator\obj\Debug\The Graphinator.exe
 C:\Users\cx3698ff\Desktop\The Graphinator\The Graphinator\obj\Debug\The Graphinator.pdb
 C:\Users\cx3698ff\Desktop\The Graphinator\The Graphinator\obj\Debug\The Graphinator.csproj.ResolveComReference.cache
+C:\Users\cx3698ff\Desktop\Excels-master\The Graphinator\bin\Debug\The Graphinator.exe.config
+C:\Users\cx3698ff\Desktop\Excels-master\The Graphinator\bin\Debug\The Graphinator.exe
+C:\Users\cx3698ff\Desktop\Excels-master\The Graphinator\bin\Debug\The Graphinator.pdb
+C:\Users\cx3698ff\Desktop\Excels-master\The Graphinator\obj\Debug\The Graphinator.csprojResolveAssemblyReference.cache
+C:\Users\cx3698ff\Desktop\Excels-master\The Graphinator\obj\Debug\The Graphinator.csproj.ResolveComReference.cache
+C:\Users\cx3698ff\Desktop\Excels-master\The Graphinator\obj\Debug\The_Graphinator.Form1.resources
+C:\Users\cx3698ff\Desktop\Excels-master\The Graphinator\obj\Debug\The_Graphinator.Properties.Resources.resources
+C:\Users\cx3698ff\Desktop\Excels-master\The Graphinator\obj\Debug\The Graphinator.csproj.GenerateResource.Cache
+C:\Users\cx3698ff\Desktop\Excels-master\The Graphinator\obj\Debug\The Graphinator.csproj.CoreCompileInputs.cache
+C:\Users\cx3698ff\Desktop\Excels-master\The Graphinator\obj\Debug\The Graphinator.exe
+C:\Users\cx3698ff\Desktop\Excels-master\The Graphinator\obj\Debug\The Graphinator.pdb
