@@ -45,6 +45,7 @@
 			this.label1 = new System.Windows.Forms.Label();
 			this.label5 = new System.Windows.Forms.Label();
 			this.label6 = new System.Windows.Forms.Label();
+			this.progressBar1 = new System.Windows.Forms.ProgressBar();
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
 			this.SuspendLayout();
 			// 
@@ -55,6 +56,7 @@
 			this.T_Equation.Name = "T_Equation";
 			this.T_Equation.Size = new System.Drawing.Size(494, 26);
 			this.T_Equation.TabIndex = 1;
+			this.T_Equation.TextChanged += new System.EventHandler(this.T_Equation_TextChanged);
 			// 
 			// pictureBox1
 			// 
@@ -215,11 +217,19 @@
 			this.label6.Text = "Start Y:";
 			this.label6.Visible = false;
 			// 
+			// progressBar1
+			// 
+			this.progressBar1.Location = new System.Drawing.Point(19, 596);
+			this.progressBar1.Name = "progressBar1";
+			this.progressBar1.Size = new System.Drawing.Size(624, 23);
+			this.progressBar1.TabIndex = 18;
+			// 
 			// Form1
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(675, 598);
+			this.ClientSize = new System.Drawing.Size(675, 631);
+			this.Controls.Add(this.progressBar1);
 			this.Controls.Add(this.T_IntervalY);
 			this.Controls.Add(this.T_EndY);
 			this.Controls.Add(this.T_StartY);
@@ -237,6 +247,8 @@
 			this.Controls.Add(this.button1);
 			this.Controls.Add(this.pictureBox1);
 			this.Controls.Add(this.T_Equation);
+			this.MaximizeBox = false;
+			this.MaximumSize = new System.Drawing.Size(691, 670);
 			this.Name = "Form1";
 			this.Text = "The Graphinator";
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
@@ -263,6 +275,7 @@
 		private System.Windows.Forms.Label label1;
 		private System.Windows.Forms.Label label5;
 		private System.Windows.Forms.Label label6;
+		private System.Windows.Forms.ProgressBar progressBar1;
 	}
 }
 
